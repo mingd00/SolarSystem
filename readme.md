@@ -17,11 +17,15 @@
 
 - **메인 페이지**: 선택한 장소, 날짜에 맞는 평균값, 최대값, 최소값 확인 및 Sidebar에서 선택한 항목들의 상관관계 확인
 
-![image.png](attachment:b8d8b13e-2d02-4b0f-bb55-0f41cf6278fd:image.png)
+![image](https://github.com/user-attachments/assets/8278c50a-32a3-4c02-8d6b-6b2a99d53e97)
+![image](https://github.com/user-attachments/assets/8eeeeb1a-c693-415f-886a-e51889c1aef6)
+
+
 
 - **인버터 페이지**: 인버터 전압, 전류, 전력 데이터를 그래프와 표로 확인
 
-![image.png](attachment:214e2d58-e492-4c7a-9730-40558508e40a:image.png)
+![image](https://github.com/user-attachments/assets/a4a3415a-7408-4a8b-9c81-e455a01ec94b)
+
 
 - **지도 페이지**: 선택한 날짜의 금일 발전량을 한눈에 비교
 
