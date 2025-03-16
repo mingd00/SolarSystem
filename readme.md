@@ -25,7 +25,8 @@
 
 - **지도 페이지**: 선택한 날짜의 금일 발전량을 한눈에 비교
 
-![image.png](attachment:e9f860e4-4332-4bf3-aa95-41464770fd35:image.png)
+![image](https://github.com/user-attachments/assets/c4d0ed67-d71d-46be-b0eb-6a07e7abc894)
+
 
 - 실행
 
